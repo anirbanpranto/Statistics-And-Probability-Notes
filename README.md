@@ -3,5 +3,11 @@ These are my notes for Statistics and Probabilty class of my highschool. I prepa
 
 ### Table of Content
 * [Introduction to Statistics](https://github.com/anirbanpranto/Statistics-And-Probability-Notes/blob/master/Notes/Introduction%20to%20Statistics.ipynb)
+* [Introduction to Probability](Notes/Introduction_Probability.ipynb)
+* [Discrete Random Variable](Notes/DiscreteRandomVariable.ipynb)
 * [Binomial Distribution](Notes/Binomial_Distribution.ipynb)
+* [Poisson Distribution](Notes/Poisson_Distribution.ipynb)
+* [Normal Distribution](Notes/Normal_Distribution.ipynb)
 * [Estimation](Notes/Estimation.ipynb)
+* [Hypothesis Testing](Notes/HypoTest.ipynb)
+* [Linear Regression](Notes/Linear_Regression.ipynb)
